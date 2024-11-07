@@ -12,3 +12,9 @@ Tech journal for SYS350
 [Milestone 5.1 - More Automation with pyvmomi](https://github.com/lpcyber1/SYS350/wiki/Milestone-5.1-%E2%80%90-More-Automation-with-pyvmomi)
 
 [Module 6.1 - Storage & Roles](https://github.com/lpcyber1/SYS350/wiki/Module-6.1-%E2%80%90-Storage-&-Roles)
+
+[Milestone 7 - VMWare Review / Skills Recap](https://github.com/lpcyber1/SYS350/wiki/Milestone-7-%E2%80%90-VMWare-Review---Skills-Recap)
+
+[Milestone 8 OpenStack Deploy](https://github.com/lpcyber1/SYS350/wiki/Milestone-8-OpenStack-Deploy)
+
+[Milestone 9 - Openstack Tutorials](https://github.com/lpcyber1/SYS350/wiki/Milestone-9-%E2%80%90-Openstack-Tutorials)
