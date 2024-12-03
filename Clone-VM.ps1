@@ -29,4 +29,4 @@ Write-Host "Creating new differencing disk..."
 Start-Sleep -Seconds 5
 
 #Creates the Linked Clone using the differencing disk 
-New-VM -Name $NewName -MemoryStartupBytes 2GB -VHDPath $NewDiskPath -Generation 2 
+New-VM -Name $NewName -MemoryStartupBytes 2GB -VHDPath $NewDisk -Generation 2 
